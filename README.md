@@ -1,2 +1,2 @@
 # Speech2Command
-A simple python script, which would type the commands for you.
+A simple python script, which types commands for you.
